@@ -5,6 +5,7 @@ This repository contains various exercises related to Object-Oriented Programmin
 ## Table of Contents
 
 1. [Account](./Lab5/Account/)
+2. [Store](./Lab12/Store/)
 
 ## How to Use
 
