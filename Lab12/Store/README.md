@@ -57,5 +57,5 @@ This repository contains a C++ implementation of a Store class managing differen
 
 ## Folder Structure
 
-- [README.md](#): Description of the project, requirements, and instructions.
-- [main.cpp](#): Main program to test the Store and Box classes.
+- [README.md](./README.md): Description of the project, requirements, and instructions.
+- [main.cpp](./main.cpp): Main program to test the Store and Box classes.
